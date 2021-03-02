@@ -25,3 +25,13 @@ h1{
   height: 200px;
   width: 200px;
 }
+
+.mountain{
+  opacity: 0.8;
+}
+
+.mountain:hover{
+  opacity: 1;
+}
+
+.mountain:
